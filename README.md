@@ -13,3 +13,5 @@ TradingView [Charting Library](https://www.tradingview.com/HTML5-stock-forex-bit
 ### ruby-on-rails-example
 
 TradingView [Charting Library](https://www.tradingview.com/HTML5-stock-forex-bitcoin-charting-library/) and [Ruby-on-Rails](http://rubyonrails.org/) Integration Example
+
+Wow.
